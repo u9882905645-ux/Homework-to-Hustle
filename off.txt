@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Ebook</title>
+</head>
+<body style="text-align:center; font-family:sans-serif; padding:20px;">
+
+  <h1>“How to Turn School Skills Into Paid Online Gigs (Without Experience)”</h1>
+
+  <img src="ebook-cover.jpg" alt="Ebook cover" width="300">
+
+  <p>Stop Waiting for "Experience" and Start Getting Paid.
+You’ve spent years writing essays, managing schedules, and creating presentations. In the professional world, those aren't just "school tasks"—they are high-value services.
+
+I spent the last two months distilling everything I know about the digital economy into this guide. I’ve done the trial and error so you don't have to. This isn't just theory; it’s a roadmap to turning your classroom habits into a side hustle.!</p>
+
+  <a href="https://payhip.com/b/q9iG5" target="_blank">
+    <button>Buy Now</button>
+  </a>
+
+</body>
+</html>
